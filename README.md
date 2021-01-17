@@ -7,3 +7,6 @@ Meu nome é Guilherme, tenho 19 anos de idade e sou desenvolvedor web. Procuro s
 - 💬 Pergunte-me sobre qualquer coisa que envolva tecnologia
 - 📫 Contate-me: gui.santos3957@gmail.com
 - ⚡ Curiosidade: eu adoro café
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-santos-573905178/)](https://www.linkedin.com/in/guilherme-santos-573905178/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_gui.santosx/)](https://www.instagram.com/_gui.santosx/)
