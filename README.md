@@ -3,18 +3,10 @@
 Full stack developer.
 
 <p align="left">
-  <a href="https://twitter.com/Guiiih" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-@Guiiih-05122A?style=flat&logo=x" alt="twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-de-sousa-santos/?locale=en_US" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Guilherme Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>  
-  </a>
-  <a href="https://www.instagram.com/_gui.santosx/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-_gui.santosx-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
-  <a href="https://guilherme-santos.netlify.app/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-guilhermedesousa.dev@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
-  </a>
+  <a href="https://twitter.com/Guiiih" target="_blank"><img align="center" src="https://img.shields.io/badge/-@Guiiih-05122A?style=flat&logo=x" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/guilherme-de-sousa-santos/?locale=en_US" target="_blank"><img align="center" src="https://img.shields.io/badge/-Guilherme Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
+  <a href="https://www.instagram.com/_gui.santosx/" target="_blank"><img align="center" src="https://img.shields.io/badge/-_gui.santosx-05122A?style=flat&logo=instagram" alt="instagram"/></a>
+  <a href="https://guilherme-santos.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/-guilhermedesousa.dev@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/></a>
 </p>
 
 Passionate about Computer Science & Technology.
