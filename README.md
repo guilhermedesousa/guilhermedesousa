@@ -1,60 +1,26 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Santos</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermedesousa&color=dd6387" alt="Profile views" /> </p>
+<h1 align="left">Guilherme Santos</h1>
 
-- 🔥 Full Stack Web Developer Intern
-- 🎓 Science & Technology Student at UFABC
-- 🔭 I'm currently focused on **PHP OOP**
-- 💬 Ask me about **Front-end and Back-end web development**
-- ⚡ Fun fact **Soccer ⚽**
-<br>
-
-<h2> Stack </h2>
-
-<div style="display:flex; align-items: center;">
-	<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-	<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-	<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-	<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-	<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-  <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-	<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-	<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-	<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-	<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-</div>
-<br><br><br>
-
-<h2> GitHub Analytics </h2>
-
-<div>
-
-  [![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedesousa&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-<div>
-  
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedesousa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<br>
-
-<h2> Contact </h2>
+Full stack developer.
 
 <p align="left">
   <a href="https://twitter.com/Guiiih" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter" alt="twitter"/>  
+    <img align="center" src="https://img.shields.io/badge/-@Guiiih-05122A?style=flat&logo=x" alt="twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/guilherme-de-sousa-santos/?locale=en_US" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>  
+    <img align="center" src="https://img.shields.io/badge/-Guilherme Santos-05122A?style=flat&logo=linkedin" alt="linkedin"/>  
   </a>
   <a href="https://www.instagram.com/_gui.santosx/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+    <img align="center" src="https://img.shields.io/badge/-_gui.santosx-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
   <a href="https://guilherme-santos.netlify.app/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=brave" alt="portfolio"/>
+    <img align="center" src="https://img.shields.io/badge/-guilhermedesousa.dev@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
   </a>
 </p>
+
+Passionate about Computer Science & Technology.
+
+I am completing my Bachelor's degree in Science & Technology, and also in **Computer Science**, at the Federal University of ABC (UFABC). More than that, I am currently a **full stack web developer**, collaborating with some business units at Mobly to create innovative solutions that drive the company's digital success.
+
+In my professional journey, I have acquired a wide range of skills in front-end and back-end. Additionally, I have significant experience in e-commerce, from business logic to code implementations, with a focus on WordPress/WooCommerce.
+
+"I am always seeking challenges that allow me to positively impact the lives of others through lines of code."
